@@ -28,7 +28,7 @@
 
         <druid.version>1.1.16</druid.version>
 
-        <alibaba.fastjson.version>1.2.17</alibaba.fastjson.version>
+        <alibaba.fastjson.version>1.2.25</alibaba.fastjson.version>
 
         <swagger2.version>2.9.2</swagger2.version>
     </properties>
